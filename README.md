@@ -1,4 +1,4 @@
-# 🧀 Canadian Cheese Fat Level Classification (Final ML Project)
+# 🧀 Canadian Cheese Fat Level Classification
 
 This machine learning project applies classification models to predict the **fat level** (Lower Fat or Higher Fat) of Canadian cheese products based on a range of categorical and numeric features. The dataset is publicly available via Canada's Open Government Portal and includes variables like cheese category, milk treatment, moisture percentage, and manufacturing region.
 
